@@ -44,8 +44,6 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/MaryamRaheemKhan">
-  <img height="180em" src="https://leetcard.jacoblin.cool/maryamrahim09876?theme=dark"/>
-</a>
+[![HackerRank Profile](https://img.shields.io/badge/HackerRank-maryamrahim09876-2EA44F?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/maryamrahim09876)
 </p>
 
