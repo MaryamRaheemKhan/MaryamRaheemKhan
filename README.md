@@ -25,3 +25,27 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,html,css,sass,tailwind,bootstrap,materialui,pug,babel,flask,fastapi,django,react,redux,nextjs,angular,vite,nodejs,express,nestjs,graphql,spring,mysql,postgres,sqlite,mongodb,elasticsearch,redis,firebase,aws,azure,vercel,docker,kubernetes,openshift,githubactions,prometheus,grafana,heroku,jest,selenium,bash,discord,eclipse,git,github,bitbucket,gitlab,redhat,linux,postman,stackoverflow,vscode,webstorm,notion,idea&theme=dark)](https://skillicons.dev)
 
+
+## 📊 Github Stats
+
+<p align="center">
+<a href="https://github.com/MaryamRaheemKhan">
+<!--   <img height="180em" src="https://git-hub-stats-bay.vercel.app/api?username=hanzala-bhutto&show_icons=true&theme=radical&include_all_commits=true"/> -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaryamRaheemKhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaryamRaheemKhan&layout=compact&langs_count=8&theme=radical"/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/MaryamRaheemKhan">
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=MaryamRaheemKhano&theme=radical"/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/MaryamRaheemKhan">
+  <img height="180em" src="https://leetcard.jacoblin.cool/Hanz-0277xO?theme=dark"/>
+</a>
+</p>
+
