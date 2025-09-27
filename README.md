@@ -44,8 +44,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.hackerrank.com/maryamrahim09876">
-    <img height="180em" src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/hackerrank-badge.png" alt="HackerRank - maryamrahim09876"/>
+  <a href="https://www.hackerrank.com/maryamrahim09876" title="HackerRank - maryamrahim09876">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EA44F?logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
 </p>
+
 
