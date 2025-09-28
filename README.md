@@ -2,7 +2,6 @@
 
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=MaryamRaheemKhan&label=Profile%20views&color=0e75b6&style=flat" alt="maryamraheem" /> 
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/MaryamRaheemKhan?label=Stars">
 </p>
 
