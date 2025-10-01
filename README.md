@@ -37,13 +37,13 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.hackerrank.com/maryamrahim09876" title="HackerRank Profile">
     <img src="https://img.shields.io/badge/Easy-64-brightgreen" alt="Easy Problems"/>
     <img src="https://img.shields.io/badge/Medium-51-orange" alt="Medium Problems"/>
     <img src="https://img.shields.io/badge/Hard-3-red" alt="Hard Problems"/>
   </a>
-</p>
+</p> -->
 
 
 
