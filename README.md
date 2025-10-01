@@ -25,7 +25,6 @@
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,html,css,sass,tailwind,bootstrap,materialui,pug,babel,flask,fastapi,django,react,redux,nextjs,angular,vite,nodejs,express,nestjs,graphql,spring,mysql,postgres,sqlite,mongodb,elasticsearch,redis,firebase,aws,azure,vercel,docker,kubernetes,openshift,githubactions,prometheus,grafana,heroku,jest,selenium,bash,discord,eclipse,git,github,bitbucket,gitlab,redhat,linux,postman,stackoverflow,vscode,webstorm,notion,idea&theme=dark)](https://skillicons.dev)
 
 
-## 📊 Github Stats
 
 <!-- <p align="center">
 <a href="https://github.com/MaryamRaheemKhan">
